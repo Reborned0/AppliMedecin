@@ -10,6 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    private Integer test;
-    private void uncoucou(){}
+    private Integer Unenouvellvar;
 }
