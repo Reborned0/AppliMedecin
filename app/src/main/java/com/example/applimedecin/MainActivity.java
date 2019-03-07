@@ -11,4 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     private String UnCHANGEMENT;
+    private String UnAutreChangemenet;
 }
