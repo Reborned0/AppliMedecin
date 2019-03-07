@@ -11,5 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     private Integer t48155est;
-    private void uncoucou(){}
+    private String uncoucou;
 }
